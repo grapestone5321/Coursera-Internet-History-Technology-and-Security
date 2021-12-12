@@ -9,17 +9,65 @@ Coursera-Internet-History-Technology-and-Security
 
 ## Internet-History-Technology-and-Security
 
+### Week 1: Getting Started
+Welcome to week 1! We will first look at the history of the Internet and Web, followed by a look at how the network works and then examine how we secure information on the Internet and Web.
+
+
+### Week 2: History: The First Internet - NSFNet
+Welcome to week 2! This week, we’ll be covering the history of the first internet: NSFnet. In the 1960s and 1970s, there was a great deal of research done to build the first wide-area packet switched networks for the US Department of Defense. In the 1980s, the first “Internet” was formed to allow academic researchers to access supercomputer resources.
+
+
+### Week 3: History: The Web Makes it Easy to Use
+Welcome to week 3! This is our third and final week of History where we make the connection from those early innovations of the modern Internet we are using for this class. Up next we move into looking at how the Internet works on the inside.
+
+We also have our second peer-review essay. Like the first essay this is extra credit and is designed as much to learn from one another as it is to grade one another. Each essay is independent - you can do as many or as few as you like.
+
+### Week 4: History: Commercialization and Growth
+We are now moving into Week 4! This week, we will be covering commercialization and growth. The late 1990’s saw the web and Internet used increasingly to revolutionize how business was done. Companies like Amazon were founded and grew very rapidly.
+
+
+### Week 5: Technology: Internets and Packets
+Welcome to Week 5! This week, we’ll be covering internets and packets. The Internet is designed based on a four-layer model. Each layer builds on the layers below it. The Link and Internetwork layers are the lowest layers of that model.
+
+### Week 6: Technology: Transport Control Protocol (TCP)
+Welcome to Week 6 of IHTS. We are in our second week of the more technical bits of the course. I try to keep the technical bits interesting and not go into too much detail.
+
+This week, we’ll be covering transport control protocol (TCP). The Transport layer is built on the Internetwork layer and is what makes our network connections reliable.
+
+### Week 7: Technology: Application Protocols
+Welcome to Week 7 of IHTS. This week has less material than other weeks. I like to think of it as a "seventh inning stretch" - where you get a little breather. This week wraps up the three weeks of "Technology" (i.e packets and stuff). After this week we have two weeks on Security and the final exam and then you are done. Thanks for sticking with it. You are almost there.
+
+This week, we’ll be covering application protocols. With reliable “pipes” available from the Transport layer, we can build applications like web browsers, file transfer applications, or email clients and servers.
+
+### Week 8: Security: Encrypting and Signing
+This week we start two weeks of Internet Security. It is a little technical but don't worry - we stay at a very high level and I am confident that if you are still keeping up with the class that you will enjoy these next two weeks. You won't know enough to be an expert - but many of the security issues that you read about going forward will make a lot more sense to you.
+
+The topics we’re covering are encrypting and signing. Using simple examples, we examine how to shield data from prying eyes and make sure that the data was not altered while in transit.
+
+### Week 9: We are now on the second to last week of the class and finishing up our look at Internet Security. You can also see the final exam and its due date.  The due date of the final exam signals the end of the class.
+
+This week, we’ll be covering web security. We apply the basic ideas of encryption and signing to who we actually secure the connections that we use on today’s Web and Internet.
+
+### Week 10: Final Exam
+We are nearing the end of the class - the last remaining issue is to take the final exam. Thanks for a great course.
+
+
+
+
 
 
 -------
 -------
 
-## Internet History, Security, and Technology (IHTS)
+# Internet History, Security, and Technology (IHTS)
+https://ihts.pr4e.com/
+
+
 Hello and welcome to my site where we take a look at how the Internet came to be and how it works.
 
-### Chuck Severance
+Chuck Severance
 
-https://ihts.pr4e.com/
+
 
 ### 1: History: Dawn of Electronic Computing
 
