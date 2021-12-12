@@ -140,6 +140,8 @@ https://ihts.pr4e.com/
 https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf
 
 
+- History
+
 ### 1: 9:13 Welcome to Internet History, Technology, and Security
 Chuck Severance
 
@@ -239,6 +241,8 @@ ieeeComputerSociety
 ### 33: 0:27 (029) Open Source Wrap Up
 Chuck Severance
 
+- Technology
+
 ### 34: 26:07 (030) Introduction: Link Layer
 Chuck Severance
 
@@ -269,6 +273,8 @@ Chuck Severance
 ### 43 10:01 Computing Conversations: Van Jacobson on Content-Centric Networking
 ieeeComputerSociety
 
+- Security
+
 ### 44 2:24 (038) Security Introduction
 Chuck Severance
 
@@ -298,6 +304,8 @@ Jacob Berkowitz
 
 ### 53: 19:05 (046) Security - Integrity and Certificate Authorities
 Chuck Severance
+
+- Graduation
 
 ### 54: 7:26 MOOC Graduation Video with Curt Bonk as Commencement Speaker
 Chuck Severance
