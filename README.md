@@ -14,56 +14,59 @@ Coursera-Internet-History-Technology-and-Security
 -------
 -------
 
+## Internet History, Security, and Technology (IHTS)
+Hello and welcome to my site where we take a look at how the Internet came to be and how it works.
 
 ### Chuck Severance
 
 https://www.pg4e.com
 
-### 1: Single Table SQL
+### 1: History: Dawn of Electronic Computing
 
-Single Table SQL
+We look at how computing, networks, and information evolved in the 1940's and 1950's.
 
+### 2: History: Research and Design of Packet Networks
 
-### 2: Data Relationships
+NSFNet
 
-Multi-Table SQL and Relationships.
+### 3: History: The Web Makes it Easy to Use
 
+Web.
 
-### 3: SQL Techniques
+### 4: History: Commercialization and Growth
 
-Intermediate PostgreSQL techniques.
-
-#### 4: Text in PostgreSQL
-
-Handling text in PostgreSQL (but not Natural Language).
+Internet growth in the later 1990's.
 
 
-### 5: Natural Language
+### 5: Technology: Internets and Packets
 
-Handling Natural Language fields and indexes in PostgreSQL.
-
-
-### 6: Python and PostgreSQL
-
-Using PostgreSQL with Python. Using PostgreSQL to retrieve and store API
+The low-level basics of the how data moves across the Internet.
 
 
-### 7: JSON and PostgreSQL
+### 6: Technology: Transport Control Protocol (TCP)
 
-Handling JSON in PostgreSQL.
+How data is moved reliably across an unreliable underlying network.
 
 
-### 8: Database Architectures
+### 7: Technology: Application Protocols
 
-Database architectures, production deplopyment, scalability, and NoSQL.
+Once we can move data reliably, what different kinds of data do we move.
+
+
+### 8: Security: Encrypting and Signing
+
+How we sign and verify data digitally.
 
 
 
-### 9: Elastic Search
+### 9: Security: Web Security
 
-Using ElasticSearch to explore NoSQL.
+Web Security.
 
 
+### 10: Final Exam and Graduation
+
+Final exam and graduation.
 
 
 
