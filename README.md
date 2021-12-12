@@ -55,7 +55,6 @@ We are nearing the end of the class - the last remaining issue is to take the fi
 
 
 
-
 -------
 -------
 
@@ -116,6 +115,13 @@ Web Security.
 
 Final exam and graduation.
 
+-------
+-------
+
+# Paper
+
+## Introduction to Networking
+https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf
 
 
 -------
