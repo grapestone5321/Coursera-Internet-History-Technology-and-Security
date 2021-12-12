@@ -243,6 +243,8 @@ Chuck Severance
 
 - Technology
 
+5: Technology: Internets and Packets
+
 ### 34: 26:07 (030) Introduction: Link Layer
 Chuck Severance
 
@@ -258,6 +260,8 @@ ieeeComputerSociety
 ### 38: 7:44 (034) DNS - The Domain Name System
 Chuck Severance
 
+6: Technology: Transport Control Protocol (TCP)
+
 ### 39: 9:30 (035) Transport Layer
 Chuck Severance
 
@@ -266,6 +270,8 @@ ieeeComputerSociety
 
 ### 41: 2:07 (037) TCP Wrap Up
 Chuck Severance
+
+7: Technology: Application Protocols
 
 ### 42: 25:23  (037A) Application Layer
 Chuck Severance
