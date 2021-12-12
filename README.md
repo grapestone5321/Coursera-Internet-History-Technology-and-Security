@@ -19,7 +19,7 @@ Hello and welcome to my site where we take a look at how the Internet came to be
 
 ### Chuck Severance
 
-https://www.pg4e.com
+https://ihts.pr4e.com/
 
 ### 1: History: Dawn of Electronic Computing
 
