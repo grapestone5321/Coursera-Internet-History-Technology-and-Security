@@ -317,8 +317,69 @@ Chuck Severance
 Chuck Severance
 
 
+-------
+
+# Internet History, Technology, and Security - Full Course from Dr. Chuck
+https://www.youtube.com/watch?v=47NRaBVxgVM
+
+reeCodeCamp.org
 
 
+Learn about the history of the Internet. In this course you will learn how the Internet was created, who created it, and how it works. Along the way you will meet many of the innovators who developed the Internet and Web technologies that we use today.
+
+Course website: https://ihts.pr4e.com/
+
+Dr. Charles Severance developed this course. He is a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and Web development. 
+
+### Course Contents
+- (0:00:00) Introduction
+- (0:09:28) High Stakes Research in Computing and Communication
+- (0:16:50) IEEE Computer: Alan Turing at Bletchley Park
+- (0:41:39) The "First" Electronic Computers Around the World
+- (0:44:30) Monash Museum of Computing History Interviews
+- (0:51:33) Post-War Computing and Communication
+- (1:03:28) Early Academic Networking Research
+- (1:19:04) Len Kleinrock: The First Two Packets on the Internet
+- (1:32:06) Packet Switched Networks
+- (1:37:47) Computing Conversations: Len Kleinrock on the Theory of Packets
+- (1:48:30) Packet Switching and the ARPANET
+- (1:49:50) Katie Hafner on the history of the ARPANET project
+- (2:01:54) Supercomputers as Technology Drivers
+- (2:05:38) Networked Computing, lecture by Larry Smarr on Scientific Computing
+- (2:16:36) From Super Computers to NSFNet
+- (2:19:57) Doug Van Houweling: Building the NSFNet
+- (2:32:13) Expanding NSFNet Around the World
+- (2:34:42) Nii Quaynor: Bringing the Internet to Africa
+- (2:47:28) The World-Wide-Web Emerges at CERN
+- Collider by the cernettes: https://youtu.be/1e1eLe1ihT0
+- (2:51:28) Building the Web Around the World
+- (3:26:38) Steve Job's Second-Order Effects (High resolution)
+- (3:39:01) Mosaic at NCSA - The Browser for Everybody
+- (3:43:01) Joseph Hardin: NCSA Mosaic
+- (3:57:12) Reflecting on Mosaic
+- (4:01:22) Computing Conversations with Brendan Eich
+- (4:13:38) Computing Conversations: Mitchell Baker on the Mozilla Foundation
+- (4:32:29) The Web, the World, and the Economy
+- (4:51:05) Computing Conversations: Brian Behlendorf on the Apache Software Foundation
+- (4:55:39) Open Source Wrap Up
+- (4:56:06) Introduction: Link Layer
+- (5:22:11) Computing Conversations: Bob Metcalfe on the First Ethernet LAN
+- (5:39:03) The InterNetwork Protocol (IP)
+- (6:14:35) Computing Conversations: Vint Cerf on the History of Packets
+- (6:30:33) DNS - The Domain Name System
+- (6:38:16) Transport Layer
+- (6:47:45) Van Jacobson: The Slow-Start Algorithm
+- (6:59:32) TCP Wrap Up
+- (7:01:38) Application Layer
+- (7:26:59) Security Introduction
+- (7:29:22) Bruce Schneier: The Security Mindset
+- (7:36:54) Understanding Security
+- (7:46:08) Encryption and Confidentiality
+- (8:06:56) Cryptographic Hashes and Integrity
+- (8:15:47) Bruce Schneier: Building Cryptographic Systems
+- (8:27:06) Hashing and Digital Signatures
+- (8:48:54) Security Public/Private Key - Secure Sockets
+- (9:08:23) Security - Integrity and Certificate Authorities
 
 
 
